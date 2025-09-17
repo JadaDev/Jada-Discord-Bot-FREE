@@ -10,7 +10,7 @@ This bot runs on **Python** with an **.exe application manager** that allows any
 
 ---
 
-## 📺 Video Preview ( setup )
+## 📺 Video Preview (setup)
 
 Watch the Jada Discord Bot setup and in action:  
 
@@ -29,27 +29,27 @@ Watch the Jada Discord Bot setup and in action:
    👉 [Discord Developer Portal](https://discord.com/developers/applications/)  
 
    Steps:  
-   - **2.a** Click **New Application**.  
+   - **2.a** Click **New Application**  
    - **2.b** Go to **Bot Tab** and enable:  
      - Public Bot  
      - Presence Intent  
      - Server Members Intent  
      - Message Content Intent  
-   - **2.c** Click **Reset Token** → Save your token (you’ll need it in the app).  
+   - **2.c** Click **Reset Token** → Save your token (you’ll need it in the app)  
    - **2.d** Go to **OAuth2 Tab**, check:  
      - `bot`  
      - `application.commands`  
      - Permissions: **Administrator**  
-   - **2.e** Copy the generated URL, paste it in your browser, and add the bot to your server.
+   - **2.e** Copy the generated URL, paste it in your browser, and add the bot to your server
 
 3. **Open `Discord Bot Manager.exe`**  
-   - Place the saved **bot token** into `Discord Token`.  
-   - Change **Bot Name** and **Banner URL** if desired.  
-   - Enable/Disable commands via the checklist.  
+   - Place the saved **bot token** into `Discord Token`  
+   - Change **Bot Name** and **Banner URL** if desired  
+   - Enable/Disable commands via the checklist  
 
 4. **Install Python via the app**  
-   - Click **Install Python**.  
-   - Run **Check Python** and **Upgrade Python**.  
+   - Click **Install Python**  
+   - Run **Check Python** and **Upgrade Python**  
 
 5. **Save Config**  
 
@@ -60,52 +60,66 @@ Watch the Jada Discord Bot setup and in action:
 
 ## 🛠 Features
 
-- **Slash Commands**: Modern Discord integration.  
-- **Command Manager**: Enable/Disable commands easily.  
+- **Slash Commands**: Modern Discord integration  
+- **Command Manager**: Enable/Disable commands easily  
 - **Guild Stats**: Shows:  
   - Total servers the bot is in  
   - Total members across all servers  
   - Server name + member count  
   - Option to **leave a server** from the panel  
-- **Logs Panel**: View all activity and error logs.  
-- **Custom Modules**: Add new commands with **Load New Module** option.  
+- **Logs Panel**: View all activity and error logs  
+- **Custom Modules**: Add new commands with **Load New Module** option  
 
 ---
 
 ## 📜 Available Commands
 
-Here’s a list of commands already included:
+**Total Commands: 44**  
 
-- 🎱 `8ball`
-- 👤 `avatar`
-- 🔨 `ban`
-- 🖼 `banner`
-- ➗ `calculator`
-- 🐱 `cat`
-- ♟ `chess`
-- 🪙 `coinflip`
-- 💰 `crypto`
-- 🎲 `dice`
-- 🐶 `dog`
-- 🎮 `epic` (with subcommands)
-- 🆓 `freegames`
-- 🌐 `ipinfo`
-- 😂 `joke`
-- 👢 `kick`
-- 📡 `kicklive`
-- 😂 `meme`
-- 🎬 `movie`
-- 📶 `ping`
-- ✊✋✌️ `rps`
-- 🏰 `serverinfo`
-- 🎮 `steam`
-- 🌍 `translate`
-- 🧠 `trivia`
-- 📺 `twitch`
-- ⏳ `uptime`
-- 👥 `userinfo`
-- ⚠️ `warn`
-- 🌦 `weather`
+🎱 `8ball`  
+🎌 `anime`  
+👤 `avatar`  
+🧹 `clear`  
+🔨 `ban`  
+🔒 `lock`  
+🔇 `mute`  
+🎵 `lyrics`  
+🐱 `cat`  
+🗺 `countryinfo`  
+🖼 `banner`  
+🏷 `shorten`  
+🎨 `color`  
+🎶 `topcharts`  
+🖼 `imagegen`  
+🗺 `timezone`  
+🔖 `trending`  
+🐌 `slowmode`  
+➗ `calculator`  
+♟ `chess`  
+🪙 `coinflip`  
+💰 `crypto`  
+🎲 `dice`  
+🐶 `dog`  
+🎮 `epic`  
+🆓 `freegames`  
+🌐 `ipinfo`  
+📖 `wiki`  
+😂 `joke`  
+👢 `kick`  
+📡 `kicklive`  
+😂 `meme`  
+🎬 `movie`  
+📶 `ping`  
+✊ `rps`  
+🏰 `serverinfo`  
+🎮 `steam`  
+🌍 `translate`  
+🧠 `trivia`  
+📺 `twitch`  
+⏳ `uptime`  
+👥 `userinfo`  
+⚠️ `warn`  
+🌦 `weather`  
 
 ---
 
@@ -117,9 +131,9 @@ This bot manager is designed for **Windows**.
 
 ## 🚀 Quick Start
 
-1. Download the repository / release files.  
-2. Run **Discord Bot Manager.exe**.  
-3. Follow the setup guide above.  
+1. Download the repository / release files  
+2. Run **Discord Bot Manager.exe**  
+3. Follow the setup guide above  
 4. Start your bot and enjoy your server automation!  
 
 ---
