@@ -10,6 +10,16 @@ This bot runs on **Python** with an **.exe application manager** that allows any
 
 ---
 
+## 📺 Video Preview ( setup )
+
+Watch the Jada Discord Bot setup and in action:  
+
+[![Jada Discord Bot Preview](https://img.youtube.com/vi/VEjbYFO5rjI/0.jpg)](https://youtu.be/VEjbYFO5rjI)
+
+*Click the image to watch on YouTube.*
+
+---
+
 ## ⚙️ Requirements
 
 1. **Download & Install Python**  
