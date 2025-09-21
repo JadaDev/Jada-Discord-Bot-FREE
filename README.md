@@ -142,6 +142,17 @@ This bot manager is designed for **Windows**.
 
 ---
 
+## 🆕 UPDATING THE BOT
+
+1. Replace Any Discord Bot Manager.*
+2. Replace All commands in jdcommands
+3. Restart the application and run the bot
+4. Click Install Pythom than Update Python.
+5. Enable new commands in the modules list.
+6. Run your bot and have fun.
+
+---
+
 ## 👨‍💻 Developed By
 
 **JadaDev**  
