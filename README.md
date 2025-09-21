@@ -1,4 +1,4 @@
-# 🌟 Jada Discord Bot [ V3 ]
+# 🌟 Jada Discord Bot [ V3.1 ]
 
 A powerful, easy-to-use Discord bot manager built by **JadaDev**.  
 This bot runs on **Python** with an **.exe application manager** that allows anyone to set up, manage, and run their own bot effortlessly.  
@@ -74,7 +74,7 @@ Watch the Jada Discord Bot setup and in action:
 
 ## 📜 Available Commands
 
-**Total Commands: 50 ( Including Sub Commands )**  
+**Total Commands: 53 ( Including Sub Commands )**  
 
 🎱 `8ball`  
 🎌 `anime`  
