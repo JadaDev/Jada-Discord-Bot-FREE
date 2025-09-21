@@ -120,10 +120,10 @@ Watch the Jada Discord Bot setup and in action:
 👥 `userinfo`  
 ⚠️ `warn`  
 🌦 `weather`  
-🎫 `ticketsetup`
-🔏 `create_room`
-🔊 `welcomesetup`
-🪙 `sol`
+🎫 `ticketsetup`  
+🔏 `create_room`  
+🔊 `welcomesetup`  
+🪙 `sol`  
 
 ---
 
