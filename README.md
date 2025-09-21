@@ -74,7 +74,7 @@ Watch the Jada Discord Bot setup and in action:
 
 ## 📜 Available Commands
 
-**Total Commands: 44**  
+**Total Commands: 50 ( Including Sub Commands )**  
 
 🎱 `8ball`  
 🎌 `anime`  
