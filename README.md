@@ -124,6 +124,19 @@ Watch the Jada Discord Bot setup and in action:
 🔏 `create_room`  
 🔊 `welcomesetup`  
 🪙 `sol`  
+📁 `wallet`  
+🖼 `generate_image`  
+☁️ `upload_image`  
+🎲 `random_image`  
+🎭 `rolesetup`  
+✏️ `roleedit`  
+➕ `roleadd`  
+❌ `roleremove`  
+🗑 `roleremoveembed`  
+🏠 `welcome_channel`  
+📝 `welcome_edit`  
+📋 `welcome_setup`  
+🎵 `welcomesetup`  
 
 ---
 
