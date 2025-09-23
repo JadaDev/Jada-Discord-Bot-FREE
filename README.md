@@ -1,4 +1,4 @@
-# 🌟 Jada Discord Bot [ V3.1 ]
+# 🌟 Jada Discord Bot [ V3.2 ]
 
 A powerful, easy-to-use Discord bot manager built by **JadaDev**.  
 This bot runs on **Python** with an **.exe application manager** that allows anyone to set up, manage, and run their own bot effortlessly.  
