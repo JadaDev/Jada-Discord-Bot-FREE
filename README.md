@@ -136,7 +136,6 @@ Watch the Jada Discord Bot setup and in action:
 🏠 `welcome_channel`  
 📝 `welcome_edit`  
 📋 `welcome_setup`  
-🎵 `welcomesetup`  
 
 ---
 
