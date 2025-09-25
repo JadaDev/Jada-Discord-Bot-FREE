@@ -45,4 +45,4 @@ By using the **Jada Discord Bot** (the **"Bot"**), you agree to be bound by thes
 
 ## 9. Contact
 
-For questions about these ToS, contact [your contact info or issue tracker].
+For questions about these ToS, contact [JadaDev].
