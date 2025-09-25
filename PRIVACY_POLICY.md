@@ -39,4 +39,4 @@
 
 ## 8. Contact
 
-For questions about this Privacy Policy, contact [your contact info or issue tracker].
+For questions about this Privacy Policy, contact [JadaDev].
